@@ -1,12 +1,8 @@
-Below is a **README.md** file that clearly explains how to set up and run your project for both the frontend and backend. It includes all the prerequisites, steps, and useful details:
-
+##E-votng System React SpringBoot Mysql
 ---
 
-```markdown
-# E-Voting Final Project
 
 This is a complete e-voting application built with Angular for the frontend and Spring Boot for the backend. The backend connects to a MySQL database to manage data. Follow the steps below to set up and run the project on your local machine.
-
 ---
 
 ## Prerequisites
@@ -64,7 +60,6 @@ This is a complete e-voting application built with Angular for the frontend and 
    http://localhost:4200
    ```
 
----
 
 ### 2. Run the Backend
 1. Open the `VotingServer` folder in IntelliJ IDEA.
